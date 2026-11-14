@@ -5,6 +5,9 @@
 ![Status](https://img.shields.io/badge/Status-In_Development-orange)
 ![Studio](https://img.shields.io/badge/Studio-LogicDevStudios-lightgrey)
 
+## Development Roadmap
+
+> 📋 **[View Full Technical Roadmap & Version Log (`ROADMAP.md`)](./ROADMAP.m
 
 > **A 2D atmospheric action-platformer blending dark, interconnected exploration with momentum-heavy aerial traversal and knockback-driven combat.**
 
