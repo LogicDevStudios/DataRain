@@ -39,12 +39,20 @@ Built from the ground up in **Godot 4**, the project combines three distinct gam
 
 ## Controls (Prototype Phase)
 
+
 | Action | Keybind |
 | :--- | :--- |
 | **Move Left / Right** | `A` / `D` |
 | **Sprint** | `Ctrl` + `A` / `D` |
 | **Crouch** | `Shift` |
 | **Jump (Short Hop / Full)** | `Space` (Tap / Hold) |
+| **Double Jump** | `Space` (Mid-air) |
+| **Dash** | `Q` |
+| **SuperJump** | Hold `Shift` (0.18s) + `Space` |
+| **SuperDoubleJump** | `SuperJump` + `Space` (Mid-air) |
+| **Stomp** | `SuperJump` + `S` (While falling) |
+| **SuperStomp** | `DoubleJump` + `S` (While falling) |
+| **MegaStomp** | `SuperDoubleJump` + `S` (While falling) |
 
 ---
 
