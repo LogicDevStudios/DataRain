@@ -72,13 +72,15 @@ Built from the ground up in **Godot 4**, the project combines three distinct gam
 
 ```text
 DataRain/
-├── scenes/          # Godot scene files (.tscn) for player, hazards, UI, and levels
-├── scripts/         # Modular GDScript (.gd) state machines, physics, and combat logic
-├── assets/          # Placeholder geometry, sprites, shaders, and audio
-├── project.godot    # Godot 4 project configuration
-├── LICENSE          # Source-available modding & proprietary rights notice
-└── README.md        # Project documentation
-```
+├── control.tscn       # Main Menu scene (1152x648 pure black title screen)
+├── control.gd         # Main Menu logic, PLAY button & keyboard shortcuts
+├── main.tscn          # Core gameplay arena scene
+├── main.gd            # Physics, stamina, dash, multi-tier jumps/stomps, HUD & hazards
+├── project.godot      # Godot 4.4+ project configuration
+├── ROADMAP.txt        # Version roadmap (v1.0 -> v2.0+)
+├── LICENSE            # Source-available modding & proprietary rights notice
+└── README.md          # Project documentation
+
 
 ---
 
