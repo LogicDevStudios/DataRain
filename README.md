@@ -1,9 +1,10 @@
 # DATARAIN
 
-![Engine](img.shields.io/badge/Engine-Godot_4-478CBF?style=for-the-badge)
-![Language](https://shields.io)
-![Status](https://shields.io)
-![Studio](https://shields.io)
+![Engine](https://img.shields.io/badge/Engine-Godot_4-blue)
+![Language](https://img.shields.io/badge/Language-GDScript-blue)
+![Status](https://img.shields.io/badge/Status-In_Development-orange)
+![Studio](https://img.shields.io/badge/Studio-LogicDevStudios-lightgrey)
+
 
 > **A 2D atmospheric action-platformer blending dark, interconnected exploration with momentum-heavy aerial traversal and knockback-driven combat.**
 
