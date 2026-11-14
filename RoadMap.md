@@ -64,9 +64,11 @@
 
 ---
 
-## `[FUTURE]` V2.0+ — Combat & Gameplay Expansion
+## `[FUTURE]` V2.0+ — Combat, Shaders & Atmosphere Expansion
+
 * **Directional Melee / Knockback Combat:** Smash Bros.-inspired `%` / knockback scaling + Hollow Knight-inspired crisp hitstop and pogo bounces.
 * **Aerial Slam Shockwaves:** Stomp tiers deal AoE damage & upward launch to nearby enemies on floor impact.
 * **Gliding / Air-Mobility:** Extensions building on modular kinematics.
-* **Soul / Energy Regeneration:** Hollow Knight-style resource recovery.
+* **Golden Focus Regeneration (`.gdshader`):** Hollow Knight-style healing state featuring a warm golden glow shader around the player and rising inward particles.
+* **Low-HP Heartbeat Danger State (`< 20%` HP):** Slow `< 60 BPM` heartbeat pulse where the camera subtly zooms in on every beat and triggers crimson screen-edge flashes at each peak (contrasting the warm golden regen glow).
 * **Combo System:** Aerial & ground combo chains.
