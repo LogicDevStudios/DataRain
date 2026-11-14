@@ -7,7 +7,7 @@
 
 ## Development Roadmap
 
-> 📋 **[View Full Technical Roadmap & Version Log (`ROADMAP.md`)](./ROADMAP.m
+> 📋 **[View Full Technical Roadmap (`RoadMap.md`)](./RoadMap.md)**
 
 > **A 2D atmospheric action-platformer blending dark, interconnected exploration with momentum-heavy aerial traversal and knockback-driven combat.**
 
