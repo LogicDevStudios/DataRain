@@ -59,8 +59,8 @@ Built from the ground up in **Godot 4**, the project combines three distinct gam
 ## Development Roadmap
 
 - [x] **Phase 0:** Repository setup, architecture planning, and licensing.
-- [ ] **Phase 1:** Baseplate environment, player `CharacterBody2D` state machine, coyote time, jump buffering, and procedural squash/stretch visuals.
-- [ ] **Phase 2:** Health system, HUD bars, environmental hazards (spikes), and knockback damage states.
+- [x] **Phase 1:** Baseplate environment, player `CharacterBody2D` state machine, coyote time, jump buffering, and procedural squash/stretch visuals.
+- [x] **Phase 2:** Health system, HUD bars, environmental hazards (spikes), and knockback damage states.
 - [ ] **Phase 3:** Combat hitboxes, directional knockback scaling, and dummy targets.
 - [ ] **Phase 4:** Aerial glide mechanics and velocity-scaled downward slam attacks.
 - [ ] **Phase 5:** Level blockouts, atmospheric lighting, shaders, and audio design.
