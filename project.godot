@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="DataRain"
-run/main_scene="uid://psqsuyrw4c00"
+run/main_scene="uid://d12pi66xeu4t4"
 config/features=PackedStringArray("4.7", "Forward Plus")
 config/icon="res://icon.svg"
 
