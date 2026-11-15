@@ -44,13 +44,13 @@
 
 ---
 
-## `[NEXT]` V1.1 — Custom Texture Update ("Texture Day")
+## `[COMPLETED]` V1.1 — Custom Texture Update ("Texture Day")
 * Replace procedural `ImageTexture` placeholders on isolated `Sprite2D` nodes:
   * `GroundSprite_ReplaceMe` -> Custom blue/cyber baseplate PNG.
   * `SpikeSprite_ReplaceMe` -> Custom spike cluster PNG.
   * `PlayerSprite_ReplaceMe` -> Swap textures dynamically by state string (`idle`, `walk`, `sprint`, `crouch`, `jump`, `fall`, `dash`, `stomp_land`).
 * Flip sprites automatically using `player_state_direction < 0.0`.
-
+  * AND MUCH MORE IM TOO LAZY TO LIST LOL :3
 ---
 
 ## `[PLANNED]` V1.2 — Optimization & Modular Refactor Update
