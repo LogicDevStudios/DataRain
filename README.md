@@ -3,7 +3,7 @@
 ![Engine](https://img.shields.io/badge/Engine-Godot_4-blue)
 ![Language](https://img.shields.io/badge/Language-GDScript-blue)
 ![Status](https://img.shields.io/badge/Status-In_Development-orange)
-![Studio](https://img.shields.io/badge/Studio-LogicDevStudios-lightgrey)
+![Studio](https://img.shields.io/badge/Studio-TearDropStudios-lightgrey)
 
 ## Development Roadmap
 
