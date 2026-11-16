@@ -82,7 +82,7 @@ DataRain/
 ├── project.godot      # Godot 4.4+ project configuration
 ├── ROADMAP.txt        # Version roadmap (v1.0 -> v2.0+)
 ├── LICENSE            # Source-available modding & proprietary rights notice
-└── README.md          # Project documentation
+└── README.md          # Project documentation for now DataRain v1.1
 
 ```
 ---
