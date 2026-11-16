@@ -73,17 +73,15 @@ Built from the ground up in **Godot 4**, the project combines three distinct gam
 
 ## Project Structure
 
-```text
+```
 DataRain/
-├── control.tscn       # Main Menu scene (1152x648 pure black title screen)
-├── control.gd         # Main Menu logic, PLAY button & keyboard shortcuts
-├── main.tscn          # Core gameplay arena scene
-├── main.gd            # Physics, stamina, dash, multi-tier jumps/stomps, HUD & hazards
-├── project.godot      # Godot 4.4+ project configuration
-├── ROADMAP.txt        # Version roadmap (v1.0 -> v2.0+)
-├── LICENSE            # Source-available modding & proprietary rights notice
-└── README.md          # Project documentation for now DataRain v1.1
-
+├── assets/sprites/    # Textures (characters, hazards, environment)
+├── control.tscn / .gd # Main Menu scene and logic
+├── main.tscn / .gd    # Core gameplay arena and physics controller
+├── project.godot      # Godot 4.4+ configuration
+├── RoadMap.md         # Version roadmap
+├── LICENSE            # Rights and modding notice
+└── README.md          # Documentation (DataRain v1.1)
 ```
 ---
 
