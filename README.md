@@ -15,7 +15,7 @@
 
 ## Overview
 
-**DataRain** is an indie 2D action-platformer currently in active pre-production and prototyping at **LogicDevStudios**. 
+**DataRain** is an indie 2D action-platformer currently in active pre-production and prototyping at **TearDropStudios**. 
 
 Built from the ground up in **Godot 4**, the project combines three distinct gameplay pillars into a single, fluid movement and combat sandbox:
 * **Atmospheric Exploration (*Hollow Knight*):** Tight, responsive platforming across dark, moody environments with environmental storytelling and deliberate level pacing.
